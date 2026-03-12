@@ -84,3 +84,23 @@ The model successfully identifies patterns associated with hate speech in tweets
 ---
 
 ## Repository Structure
+
+---
+
+## Future Improvements
+
+- Use deep learning models (LSTM / BERT)
+- Improve feature engineering
+- Deploy the model as an API or web application
+
+---
+
+## Author
+
+**Karanam Purna Charan**  
+B.Tech – Artificial Intelligence & Data Science  
+IIT Patna
+
+GitHub: https://github.com/NaniK-10  
+LinkedIn: https://www.linkedin.com/in/purna-charan-karanam-a71477327/
+
